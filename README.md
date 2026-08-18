@@ -1,16 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:6b0f1a&height=200&section=header&text=Nikita&fontSize=60&fontColor=e0e0e0&fontAlignY=35&desc=Frontend%20%C2%B7%20Python%20%C2%B7%20Figma&descAlignY=60&descSize=18" width="100%"/>
+<img src="banner.jpg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B0000&center=true&vCenter=true&width=600&lines=frontend.;python.;figma.;20." />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/b4ecad6f-806c-4149-b2a7-75fa92285225" />
+
 
 </div>
 
-## О себе
+## Обо мне
 
-Никита. 26.06.2006(20yo). Frontend разработчик.
+<div align="center">
 
-· Россия · open to work
+**Никита** · 26.06.2006 (20 yo)
+
+· Russian Federation · Frontend разработчик ·
+
+`html` `css` `js` `python` `figma`
+
+</div>
 
 ## Стек
 
@@ -42,13 +49,12 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/ara_araa_ara)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:officialmelnikov1723@gmail.com)
+почта · [officialmelnikov1723@gmail.com](mailto:officialmelnikov1723@gmail.com)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=y8kk&color=8B0000&style=for-the-badge&label=views)
+![Profile Views](https://komarev.com/ghpvc/?username=y8kk&color=B3122E&style=for-the-badge&label=views)
 
 </div>
