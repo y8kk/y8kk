@@ -10,8 +10,6 @@
 
 · Russian Federation · Frontend разработчик ·
 
-`html` `css` `js` `python` `figma`
-
 </div>
 
 ## Контакты
